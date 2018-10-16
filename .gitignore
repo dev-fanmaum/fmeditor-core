@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# gradle files
+.gradle
+
+# Intellij project files
+.idea
